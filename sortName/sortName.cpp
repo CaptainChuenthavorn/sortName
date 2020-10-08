@@ -1,7 +1,7 @@
 ﻿#define  _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h>
-int SUM(int* pointerA, int n, int sum);
+int SUM(int* , int , int );
 int Mutiple(int* , int , int);
 int main()
 {
